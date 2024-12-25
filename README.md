@@ -1,6 +1,6 @@
 <h2>Tensorflow-Image-Segmentation-RINGS-Prostate-Tumor (2024/12/25)</h2>
 
-This is the first experiment of Image Segmentation for RINGS Prostate Glands 
+This is the first experiment of Image Segmentation for RINGS Prostate Tumor 
  based on 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, 
 and  <a href="https://drive.google.com/file/d/1hivmPx1lVm6fOc7QQwjjCP4vrQ3PVYZ1/view?usp=sharing">
