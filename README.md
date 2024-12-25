@@ -127,7 +127,7 @@ We excluded all black (empty) masks and their corresponding images to generate o
 <b>Prostate-Tumor Statistics</b><br>
 <img src ="./projects/TensorflowSlightlyFlexibleUNet/Prostate-Tumor/Prostate-Tumor_Statistics.png" width="512" height="auto"><br>
 <br>
-As shown above, the number of images of train and valid datasets is enough to use for a training set of our segmentation model.
+As shown above, the number of images of train and valid datasets is not enough to use for a training set of our segmentation model.
 <br>
 <br>
 <b>Train_images_sample</b><br>
